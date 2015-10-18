@@ -1,0 +1,346 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin
+compile options:
+8 items
+0 -> -javabootclasspath
+1 -> E:\JDK8\java\lib\resources.jar;E:\JDK8\java\lib\rt.jar;E:\JDK8\java\lib\jsse.jar;E:\JDK8\java\lib\jce.jar;E:\JDK8\java\lib\charsets.jar;E:\JDK8\java\lib\jfr.jar;E:\JDK8\java\lib\ext\access-bridge-64.jar;E:\JDK8\java\lib\ext\cldrdata.jar;E:\JDK8\java\lib\ext\dnsns.jar;E:\JDK8\java\lib\ext\jaccess.jar;E:\JDK8\java\lib\ext\jfxrt.jar;E:\JDK8\java\lib\ext\localedata.jar;E:\JDK8\java\lib\ext\nashorn.jar;E:\JDK8\java\lib\ext\sunec.jar;E:\JDK8\java\lib\ext\sunjce_provider.jar;E:\JDK8\java\lib\ext\sunmscapi.jar;E:\JDK8\java\lib\ext\sunpkcs11.jar;E:\JDK8\java\lib\ext\zipfs.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> E:\eclipseScala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+6 -> -encoding
+7 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+69 items
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\common\package.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\common\package$$anonfun$subFile$1.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\common\package.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\common\package$.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\common\package.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\common\package.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSets$$anonfun$1.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSets$$anonfun$2.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSets$$anonfun$diff$1.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSets$$anonfun$filter$1.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSets$$anonfun$intersect$1.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSets$$anonfun$singletonSet$1.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSets$$anonfun$union$1.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSets$.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSets.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\Main$$anonfun$1.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\Main$$anonfun$2.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\Main$$anonfun$3.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\Main$$anonfun$4.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\Main$$anonfun$5.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\Main$$anonfun$6.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\Main$$anonfun$7.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\Main$.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\Main$delayedInit$body.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\Main.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$1.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$11$$anon$5$$anonfun$12.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$11$$anon$5$$anonfun$13.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$11$$anon$5.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$11.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$15$$anon$6$$anonfun$16.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$15$$anon$6.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$15.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$17$$anon$7$$anonfun$18.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$17$$anon$7$$anonfun$19.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$17$$anon$7.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$17.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$2.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$20$$anonfun$21.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$20$$anonfun$22.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$20$$anonfun$23.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$20.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$24$$anon$8$$anonfun$25.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$24$$anon$8$$anonfun$26.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$24$$anon$8.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$24.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$27$$anon$9$$anonfun$28.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$27$$anon$9.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$27.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$29$$anonfun$30.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$29$$anonfun$31.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$29.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$3$$anonfun$4.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$3.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$5$$anon$1.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$5.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$6$$anon$2.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$6.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$7$$anon$3.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$7.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$8$$anon$4$$anonfun$10.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$8$$anon$4$$anonfun$9.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$8$$anon$4.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$8.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$BiggerTestSet$class.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$BiggerTestSet.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$TestSet2$$anonfun$14.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$TestSet2$class.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$TestSet2.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$TestSets$class.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$TestSets.class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite.class
+binary dependencies:
+10 items
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\common\package.scala -> E:\JDK8\java\lib\rt.jar
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\common\package.scala -> E:\eclipseScala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> E:\JDK8\java\lib\rt.jar
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> E:\eclipseScala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> E:\JDK8\java\lib\rt.jar
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> E:\eclipseScala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\junit-4.11.jar
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\scalatest_2.11-2.2.4.jar
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> E:\JDK8\java\lib\rt.jar
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> E:\eclipseScala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+direct source dependencies:
+2 items
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+69 items
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\common\package.scala -> common.package
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\common\package.scala -> common.package$
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\common\package.scala -> common.package$$anonfun$subFile$1
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets.FunSets
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets.FunSets$
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets.FunSets$$anonfun$1
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets.FunSets$$anonfun$2
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets.FunSets$$anonfun$diff$1
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets.FunSets$$anonfun$filter$1
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets.FunSets$$anonfun$intersect$1
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets.FunSets$$anonfun$singletonSet$1
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets.FunSets$$anonfun$union$1
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> funsets.Main
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> funsets.Main$
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> funsets.Main$$anonfun$1
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> funsets.Main$$anonfun$2
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> funsets.Main$$anonfun$3
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> funsets.Main$$anonfun$4
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> funsets.Main$$anonfun$5
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> funsets.Main$$anonfun$6
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> funsets.Main$$anonfun$7
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> funsets.Main$delayedInit$body
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$1
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$11
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$11$$anon$5
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$11$$anon$5$$anonfun$12
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$11$$anon$5$$anonfun$13
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$15
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$15$$anon$6
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$15$$anon$6$$anonfun$16
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$17
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$17$$anon$7
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$17$$anon$7$$anonfun$18
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$17$$anon$7$$anonfun$19
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$2
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$20
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$20$$anonfun$21
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$20$$anonfun$22
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$20$$anonfun$23
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$24
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$24$$anon$8
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$24$$anon$8$$anonfun$25
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$24$$anon$8$$anonfun$26
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$27
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$27$$anon$9
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$27$$anon$9$$anonfun$28
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$29
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$29$$anonfun$30
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$29$$anonfun$31
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$3
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$3$$anonfun$4
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$5
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$5$$anon$1
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$6
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$6$$anon$2
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$7
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$7$$anon$3
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$8
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$8$$anon$4
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$8$$anon$4$$anonfun$10
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$8$$anon$4$$anonfun$9
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$BiggerTestSet
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$BiggerTestSet$class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$TestSet2
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$TestSet2$$anonfun$14
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$TestSet2$class
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$TestSets
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$TestSets$class
+used names:
+0 items
+product stamps:
+69 items
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\common\package$$anonfun$subFile$1.class -> lastModified(1444690855691)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\common\package$.class -> lastModified(1444690855676)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\common\package.class -> lastModified(1444690855563)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSets$$anonfun$1.class -> lastModified(1444783080827)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSets$$anonfun$2.class -> lastModified(1444783080831)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSets$$anonfun$diff$1.class -> lastModified(1444783080837)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSets$$anonfun$filter$1.class -> lastModified(1444783080842)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSets$$anonfun$intersect$1.class -> lastModified(1444783080846)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSets$$anonfun$singletonSet$1.class -> lastModified(1444783080851)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSets$$anonfun$union$1.class -> lastModified(1444783080855)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSets$.class -> lastModified(1444783080816)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSets.class -> lastModified(1444783080709)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$1.class -> lastModified(1444782423644)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$11$$anon$5$$anonfun$12.class -> lastModified(1444782423664)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$11$$anon$5$$anonfun$13.class -> lastModified(1444782423669)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$11$$anon$5.class -> lastModified(1444782423660)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$11.class -> lastModified(1444782423650)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$15$$anon$6$$anonfun$16.class -> lastModified(1444782423688)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$15$$anon$6.class -> lastModified(1444782423683)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$15.class -> lastModified(1444782423674)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$17$$anon$7$$anonfun$18.class -> lastModified(1444782423707)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$17$$anon$7$$anonfun$19.class -> lastModified(1444782423712)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$17$$anon$7.class -> lastModified(1444782423702)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$17.class -> lastModified(1444782423693)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$2.class -> lastModified(1444782423718)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$20$$anonfun$21.class -> lastModified(1444782423728)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$20$$anonfun$22.class -> lastModified(1444782423734)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$20$$anonfun$23.class -> lastModified(1444782423739)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$20.class -> lastModified(1444782423723)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$24$$anon$8$$anonfun$25.class -> lastModified(1444782423756)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$24$$anon$8$$anonfun$26.class -> lastModified(1444782423760)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$24$$anon$8.class -> lastModified(1444782423752)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$24.class -> lastModified(1444782423744)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$27$$anon$9$$anonfun$28.class -> lastModified(1444782423777)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$27$$anon$9.class -> lastModified(1444782423772)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$27.class -> lastModified(1444782423765)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$29$$anonfun$30.class -> lastModified(1444782423788)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$29$$anonfun$31.class -> lastModified(1444782423792)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$29.class -> lastModified(1444782423784)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$3$$anonfun$4.class -> lastModified(1444782423800)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$3.class -> lastModified(1444782423797)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$5$$anon$1.class -> lastModified(1444782423816)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$5.class -> lastModified(1444782423806)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$6$$anon$2.class -> lastModified(1444782423832)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$6.class -> lastModified(1444782423822)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$7$$anon$3.class -> lastModified(1444782423846)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$7.class -> lastModified(1444782423837)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$8$$anon$4$$anonfun$10.class -> lastModified(1444782423860)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$8$$anon$4$$anonfun$9.class -> lastModified(1444782423864)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$8$$anon$4.class -> lastModified(1444782423857)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$$anonfun$8.class -> lastModified(1444782423850)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$BiggerTestSet$class.class -> lastModified(1444782423870)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$BiggerTestSet.class -> lastModified(1444782423866)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$TestSet2$$anonfun$14.class -> lastModified(1444782423877)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$TestSet2$class.class -> lastModified(1444782423882)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$TestSet2.class -> lastModified(1444782423873)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$TestSets$class.class -> lastModified(1444782423887)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite$TestSets.class -> lastModified(1444782423885)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\FunSetSuite.class -> lastModified(1444782423624)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\Main$$anonfun$1.class -> lastModified(1444783812453)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\Main$$anonfun$2.class -> lastModified(1444783812458)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\Main$$anonfun$3.class -> lastModified(1444783812463)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\Main$$anonfun$4.class -> lastModified(1444783812467)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\Main$$anonfun$5.class -> lastModified(1444783812472)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\Main$$anonfun$6.class -> lastModified(1444783812476)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\Main$$anonfun$7.class -> lastModified(1444783812480)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\Main$.class -> lastModified(1444783812444)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\Main$delayedInit$body.class -> lastModified(1444783812484)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\bin\funsets\Main.class -> lastModified(1444783812328)
+source stamps:
+4 items
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\common\package.scala -> hash(959d2de80692406118ffed481da44534a9da824a)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> hash(ea24953893215745208beb7c3aba9cb40163d341)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> hash(30861ccb632e63a68b9b0285d06cee3814877a00)
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> hash(d9d92ca6a6d6ab7fe3967ecf2d0c56cfba3248cf)
+binary stamps:
+4 items
+D:\Scala\scala-workspace\junit-4.11.jar -> lastModified(1444623538501)
+D:\Scala\scala-workspace\scalatest_2.11-2.2.4.jar -> lastModified(1444625226148)
+E:\eclipseScala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> lastModified(1443201198000)
+E:\JDK8\java\lib\rt.jar -> lastModified(1443905839103)
+class names:
+4 items
+D:\Scala\scala-workspace\junit-4.11.jar -> org.junit.runner.RunWith
+D:\Scala\scala-workspace\scalatest_2.11-2.2.4.jar -> org.scalatest.AbstractSuite
+E:\eclipseScala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> scala.DelayedInit
+E:\JDK8\java\lib\rt.jar -> java.lang.Object
+internal apis:
+4 items
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\common\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAOY29tbW9uLnBhY2thZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgAveHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAuAHBzcQB+ADNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA3c3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AFN0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFRzcQB+AEd0AANBbnlzcQB+AEtzcQB+AE51cQB+AFEAAAACc3EAfgBTdAAFc2NhbGFxAH4AWnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+ABx4cHQABmNvbW1vbnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUF5I+aN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAAzRDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXGZ1bnNldHNcYmludAAzRDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXGZ1bnNldHNcc3JjdXIAAltCrPMX+AYIVOACAAB4cAAAABSVnS3oBpJAYRj/7UgdpEU0qdqCSg==
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCdZ35IAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAPZnVuc2V0cy5GdW5TZXRzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgAuAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADVzcQB+AC4BdXEAfgAQAAAAAHBzcQB+AC4BdXEAfgAQAAAAAHBzcQB+AC4BdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+ABxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgA0dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA0c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgBNdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBOc3EAfgBBdAADQW55c3EAfgBFc3EAfgBIdXEAfgBLAAAAAnNxAH4ATXQABXNjYWxhcQB+AFRwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+ABx4cHQAB2Z1bnNldHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVBjyDKZdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyY3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU6iSVOJMhV0Ugi+t8OrqctAFj00E=
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBI+SvlAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAMZnVuc2V0cy5NYWludXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgAwAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+ADABdXEAfgAQAAAAAHBzcQB+ADABdXEAfgAQAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgAWcQB+ACB1cQB+ACEAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgBBeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4AHEwABXZhbHVlcQB+ABx4cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ANnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AW3NxAH4AIwB0AARtYWludXEAfgAmAAAAAHNxAH4ATnQABFVuaXRxAH4AVHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAcTAADdHBlcQB+AEF4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+ACl0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AE9bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ADZzcQB+AE50AAVBcnJheXEAfgBUdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AE50AAZTdHJpbmdzcQB+AFJzcQB+AFV1cQB+AFgAAAADc3EAfgBadAAEamF2YXNxAH4AWnQABGxhbmdxAH4AX3BzcQB+ADABdXEAfgB4AAAABHNxAH4ATnQAA0FwcHEAfgBUc3EAfgBOdAALRGVsYXllZEluaXRxAH4AVHNxAH4ATnQABk9iamVjdHEAfgB8c3EAfgBOdAADQW55cQB+AFRwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+ABx4cHQAB2Z1bnNldHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVBj013qdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyY3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUMIYcy2MuY6aLmwKF0GzuOBSHegA=
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCeFTA+AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAcTAAFdmFsdWVxAH4AHHhwdAAFdmFsdWV0AChjbGFzc09mW29yZy5zY2FsYXRlc3QuanVuaXQuSlVuaXRSdW5uZXJdc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHQAB1J1bldpdGhzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AC9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA29yZ3NxAH4AO3QABWp1bml0c3EAfgA7dAAGcnVubmVyc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ADxzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABNmdW5zZXRzLkZ1blNldFN1aXRldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAnc2NhbGEucmVmbGVjdC5tYWNyb3MuaW50ZXJuYWwubWFjcm9JbXBsdAAQc2NhbGEuZGVwcmVjYXRlZHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cQB+AC9wc3EAfgBSAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADBzcQB+AFIBdXEAfgAQAAAAAHBzcQB+AFIBdXEAfgAQAAAAAHBzcQB+AFIBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAA9zcQB+AC10AAhGdW5TdWl0ZXNxAH4AM3NxAH4ANnVxAH4AOQAAAANzcQB+ADt0AANvcmdzcQB+ADt0AAlzY2FsYXRlc3RxAH4ARHNxAH4ALXQADEZ1blN1aXRlTGlrZXEAfgBlc3EAfgAtdAALRG9jdW1lbnRpbmdxAH4AZXNxAH4ALXQACEFsZXJ0aW5ncQB+AGVzcQB+AC10AAlOb3RpZnlpbmdxAH4AZXNxAH4ALXQACUluZm9ybWluZ3EAfgBlc3EAfgAtdAAQVGVzdFJlZ2lzdHJhdGlvbnEAfgBlc3EAfgAtdAAFU3VpdGVxAH4AZXNxAH4ALXQADFNlcmlhbGl6YWJsZXNxAH4AM3NxAH4ANnVxAH4AOQAAAANzcQB+ADt0AARqYXZhc3EAfgA7dAACaW9xAH4ARHNxAH4ALXQADUFic3RyYWN0U3VpdGVxAH4AZXNxAH4ALXQACkFzc2VydGlvbnNxAH4AZXNxAH4ALXQADFRyaXBsZUVxdWFsc3NxAH4AM3NxAH4ANnVxAH4AOQAAAANzcQB+ADt0AANvcmdzcQB+ADt0AAlzY2FsYWN0aWNxAH4ARHNxAH4ALXQAE1RyaXBsZUVxdWFsc1N1cHBvcnRxAH4AiXNxAH4ALXQABk9iamVjdHNxAH4AM3NxAH4ANnVxAH4AOQAAAANzcQB+ADtxAH4AgHNxAH4AO3QABGxhbmdxAH4ARHNxAH4ALXQAA0FueXNxAH4AM3NxAH4ANnVxAH4AOQAAAAJzcQB+ADt0AAVzY2FsYXEAfgBEcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAceHB0AAdmdW5zZXRzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFQY74mDHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0ADNEOlxTY2FsYVxzY2FsYS13b3Jrc3BhY2VcQ291cnNlcmEtU2NhbGFcZnVuc2V0c1xiaW50ADNEOlxTY2FsYVxzY2FsYS13b3Jrc3BhY2VcQ291cnNlcmEtU2NhbGFcZnVuc2V0c1xzcmN1cgACW0Ks8xf4BghU4AIAAHhwAAAAFNnZLKam1qt/45Z+zy0MVs+6MkjP
+external apis:
+0 items
+source infos:
+4 items
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\common\package.scala -> 
+AAAAAAAAAAA=
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\FunSets.scala -> 
+AAAAAAAAAAA=
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\main\scala\funsets\Main.scala -> 
+AAAAAAAAAAA=
+D:\Scala\scala-workspace\Coursera-Scala\funsets\src\test\scala\funsets\FunSetSuite.scala -> 
+AAAAAAAAAAA=
+compilations:
+31 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUF5I+aN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUF8spKd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUF8tyup1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUF8wY011cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUF8wz5l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUF8xJDp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUF81ZsJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUF82NhZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUF84Ekd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUF84g0Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUF84y1Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUF85E4h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUF85nSZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUF85vWR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUF853TV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUGOmPjZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUGOwH+51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUGOxYCZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUGOz2Nx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUGO386B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUGO4uaF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUGO6rEF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUGO88Y11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUGO+Jgx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUGPD7EV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUGPE5Vl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUGPFoz91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUGPGA6N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUGPIMpl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUGPS87F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUGPTXep1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXGJpbnQAM0Q6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxmdW5zZXRzXHNyYw==

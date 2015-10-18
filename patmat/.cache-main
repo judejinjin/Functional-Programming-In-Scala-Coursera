@@ -1,0 +1,221 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin
+compile options:
+8 items
+0 -> -javabootclasspath
+1 -> E:\JDK8\java\lib\resources.jar;E:\JDK8\java\lib\rt.jar;E:\JDK8\java\lib\jsse.jar;E:\JDK8\java\lib\jce.jar;E:\JDK8\java\lib\charsets.jar;E:\JDK8\java\lib\jfr.jar;E:\JDK8\java\lib\ext\access-bridge-64.jar;E:\JDK8\java\lib\ext\cldrdata.jar;E:\JDK8\java\lib\ext\dnsns.jar;E:\JDK8\java\lib\ext\jaccess.jar;E:\JDK8\java\lib\ext\jfxrt.jar;E:\JDK8\java\lib\ext\localedata.jar;E:\JDK8\java\lib\ext\nashorn.jar;E:\JDK8\java\lib\ext\sunec.jar;E:\JDK8\java\lib\ext\sunjce_provider.jar;E:\JDK8\java\lib\ext\sunmscapi.jar;E:\JDK8\java\lib\ext\sunpkcs11.jar;E:\JDK8\java\lib\ext\zipfs.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> E:\eclipseScala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+6 -> -encoding
+7 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+35 items
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\common\package.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\common\package$$anonfun$subFile$1.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\common\package.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\common\package$.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\common\package.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\common\package.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$$anonfun$add$1$1.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$$anonfun$combine$1.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$$anonfun$createCodeTree$1.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$$anonfun$createCodeTree$2.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$$anonfun$encode$1.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$$anonfun$makeOrderedLeafList$1.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$$anonfun$makeOrderedLeafList$2.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$$anonfun$quickEncode$1.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$$anonfun$times$1.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$$anonfun$times$2.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$CodeTree.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$Fork$.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$Fork.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$Leaf$.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$Leaf.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Main$.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Main$delayedInit$body.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Main.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$$anonfun$1$$anon$1.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$$anonfun$1.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$$anonfun$2$$anon$2.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$$anonfun$2.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$$anonfun$3.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$$anonfun$4.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$$anonfun$5.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$$anonfun$6$$anon$3.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$$anonfun$6.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$TestTrees$class.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$TestTrees.class
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite.class
+binary dependencies:
+8 items
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\common\package.scala -> E:\JDK8\java\lib\rt.jar
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\common\package.scala -> E:\eclipseScala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> E:\JDK8\java\lib\rt.jar
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> E:\eclipseScala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> D:\Scala\scala-workspace\junit-4.11.jar
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> D:\Scala\scala-workspace\scalatest_2.11-2.2.4.jar
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> E:\JDK8\java\lib\rt.jar
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> E:\eclipseScala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+direct source dependencies:
+1 items
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+35 items
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\common\package.scala -> common.package
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\common\package.scala -> common.package$
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\common\package.scala -> common.package$$anonfun$subFile$1
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$add$1$1
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$combine$1
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$1
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$2
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$encode$1
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$makeOrderedLeafList$1
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$makeOrderedLeafList$2
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$quickEncode$1
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$times$1
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$times$2
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$CodeTree
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Fork
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Fork$
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Leaf
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Leaf$
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Main
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Main$
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Main$delayedInit$body
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> patmat.HuffmanSuite
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> patmat.HuffmanSuite$$anonfun$1
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> patmat.HuffmanSuite$$anonfun$1$$anon$1
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> patmat.HuffmanSuite$$anonfun$2
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> patmat.HuffmanSuite$$anonfun$2$$anon$2
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> patmat.HuffmanSuite$$anonfun$3
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> patmat.HuffmanSuite$$anonfun$4
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> patmat.HuffmanSuite$$anonfun$5
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> patmat.HuffmanSuite$$anonfun$6
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> patmat.HuffmanSuite$$anonfun$6$$anon$3
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> patmat.HuffmanSuite$TestTrees
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> patmat.HuffmanSuite$TestTrees$class
+used names:
+0 items
+product stamps:
+35 items
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\common\package$$anonfun$subFile$1.class -> lastModified(1444691490673)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\common\package$.class -> lastModified(1444691490669)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\common\package.class -> lastModified(1444691490659)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$$anonfun$add$1$1.class -> lastModified(1445192735499)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$$anonfun$combine$1.class -> lastModified(1445192735503)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$$anonfun$createCodeTree$1.class -> lastModified(1445192735506)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$$anonfun$createCodeTree$2.class -> lastModified(1445192735508)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$$anonfun$encode$1.class -> lastModified(1445192735511)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$$anonfun$makeOrderedLeafList$1.class -> lastModified(1445192735513)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$$anonfun$makeOrderedLeafList$2.class -> lastModified(1445192735516)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$$anonfun$quickEncode$1.class -> lastModified(1445192735520)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$$anonfun$times$1.class -> lastModified(1445192735523)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$$anonfun$times$2.class -> lastModified(1445192735525)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$.class -> lastModified(1445192735495)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$CodeTree.class -> lastModified(1445192735526)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$Fork$.class -> lastModified(1445192735538)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$Fork.class -> lastModified(1445192735534)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$Leaf$.class -> lastModified(1445192735542)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman$Leaf.class -> lastModified(1445192735548)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Huffman.class -> lastModified(1445192735466)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$$anonfun$1$$anon$1.class -> lastModified(1445192736797)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$$anonfun$1.class -> lastModified(1445192736793)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$$anonfun$2$$anon$2.class -> lastModified(1445192736803)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$$anonfun$2.class -> lastModified(1445192736800)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$$anonfun$3.class -> lastModified(1445192736806)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$$anonfun$4.class -> lastModified(1445192736809)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$$anonfun$5.class -> lastModified(1445192736812)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$$anonfun$6$$anon$3.class -> lastModified(1445192736818)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$$anonfun$6.class -> lastModified(1445192736815)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$TestTrees$class.class -> lastModified(1445192736822)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite$TestTrees.class -> lastModified(1445192736820)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\HuffmanSuite.class -> lastModified(1445192736789)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Main$.class -> lastModified(1445192735557)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Main$delayedInit$body.class -> lastModified(1445192735559)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\bin\patmat\Main.class -> lastModified(1445192735551)
+source stamps:
+3 items
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\common\package.scala -> hash(959d2de80692406118ffed481da44534a9da824a)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> hash(08e1d771c370bbc9446ca12c3b9fbe61e584d5eb)
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> hash(bb94b8542a498c24e37265c59232863dbebc7a31)
+binary stamps:
+4 items
+D:\Scala\scala-workspace\junit-4.11.jar -> lastModified(1444623538501)
+D:\Scala\scala-workspace\scalatest_2.11-2.2.4.jar -> lastModified(1444625226148)
+E:\eclipseScala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> lastModified(1443201198000)
+E:\JDK8\java\lib\rt.jar -> lastModified(1443905839103)
+class names:
+4 items
+D:\Scala\scala-workspace\junit-4.11.jar -> org.junit.runner.RunWith
+D:\Scala\scala-workspace\scalatest_2.11-2.2.4.jar -> org.scalatest.FunSuiteLike
+E:\eclipseScala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> scala.Function0
+E:\JDK8\java\lib\rt.jar -> java.io.Serializable
+internal apis:
+3 items
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\common\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAOY29tbW9uLnBhY2thZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgAveHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAuAHBzcQB+ADNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA3c3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AFN0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFRzcQB+AEd0AANBbnlzcQB+AEtzcQB+AE51cQB+AFEAAAACc3EAfgBTdAAFc2NhbGFxAH4AWnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+ABx4cHQABmNvbW1vbnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUF5SsDt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAAyRDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXHBhdG1hdFxiaW50ADJEOlxTY2FsYVxzY2FsYS13b3Jrc3BhY2VcQ291cnNlcmEtU2NhbGFccGF0bWF0XHNyY3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUlZ0t6AaSQGEY/+1IHaRFNKnagko=
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDUBFRdAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAOcGF0bWF0Lkh1ZmZtYW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgAveHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAuAHBzcQB+ADNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA3c3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AFN0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFRzcQB+AEd0AANBbnlzcQB+AEtzcQB+AE51cQB+AFEAAAACc3EAfgBTdAAFc2NhbGFxAH4AWnNxAH4AEnEAfgAgdXEAfgAhAAAAAHNxAH4AIwB0AAtwYXRtYXQuTWFpbnVxAH4AJgAAAABxAH4AKnVxAH4ALAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmdzcQB+AC4AcHNxAH4AM3EAfgA4c3EAfgAuAHBzcQB+ADNzcQB+ADtzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AFnEAfgAgdXEAfgAhAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AdnhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+ABxMAAV2YWx1ZXEAfgAceHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcQB+AEd0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AS3NxAH4ATnVxAH4AUQAAAAJzcQB+AFNxAH4AYXEAfgBac3EAfgAjAHQABG1haW51cQB+ACYAAAAAc3EAfgBHdAAEVW5pdHEAfgCFdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+ABxMAAN0cGVxAH4AdnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AKXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ASFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4ANnNxAH4AR3QABUFycmF5cQB+AIV1cQB+AEUAAAABc3EAfgBHdAAGU3RyaW5nc3EAfgBLc3EAfgBOdXEAfgBRAAAAA3NxAH4AU3EAfgBWc3EAfgBTcQB+AFhxAH4AWnNxAH4ALgBwc3EAfgAzdXEAfgBFAAAABHNxAH4AR3QAA0FwcHEAfgCFc3EAfgBHdAALRGVsYXllZEluaXRxAH4AhXNxAH4AR3EAfgBKcQB+AKRzcQB+AEdxAH4AXHEAfgCFdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4AHHhwdAAGcGF0bWF0c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFQfDMT03VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0ADJEOlxTY2FsYVxzY2FsYS13b3Jrc3BhY2VcQ291cnNlcmEtU2NhbGFccGF0bWF0XGJpbnQAMkQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxwYXRtYXRcc3JjdXIAAltCrPMX+AYIVOACAAB4cAAAABQI4ddxw3C7yURsoSw7n75h5YTV6w==
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAa9JJ3AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAcTAAFdmFsdWVxAH4AHHhwdAAFdmFsdWV0AChjbGFzc09mW29yZy5zY2FsYXRlc3QuanVuaXQuSlVuaXRSdW5uZXJdc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHQAB1J1bldpdGhzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AC9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA29yZ3NxAH4AO3QABWp1bml0c3EAfgA7dAAGcnVubmVyc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ADxzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABNwYXRtYXQuSHVmZm1hblN1aXRldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAnc2NhbGEucmVmbGVjdC5tYWNyb3MuaW50ZXJuYWwubWFjcm9JbXBsdAAQc2NhbGEuZGVwcmVjYXRlZHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cQB+AC9wc3EAfgBSAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADBzcQB+AFIBdXEAfgAQAAAAAHBzcQB+AFIBdXEAfgAQAAAAAHBzcQB+AFIBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAA9zcQB+AC10AAhGdW5TdWl0ZXNxAH4AM3NxAH4ANnVxAH4AOQAAAANzcQB+ADt0AANvcmdzcQB+ADt0AAlzY2FsYXRlc3RxAH4ARHNxAH4ALXQADEZ1blN1aXRlTGlrZXEAfgBlc3EAfgAtdAALRG9jdW1lbnRpbmdxAH4AZXNxAH4ALXQACEFsZXJ0aW5ncQB+AGVzcQB+AC10AAlOb3RpZnlpbmdxAH4AZXNxAH4ALXQACUluZm9ybWluZ3EAfgBlc3EAfgAtdAAQVGVzdFJlZ2lzdHJhdGlvbnEAfgBlc3EAfgAtdAAFU3VpdGVxAH4AZXNxAH4ALXQADFNlcmlhbGl6YWJsZXNxAH4AM3NxAH4ANnVxAH4AOQAAAANzcQB+ADt0AARqYXZhc3EAfgA7dAACaW9xAH4ARHNxAH4ALXQADUFic3RyYWN0U3VpdGVxAH4AZXNxAH4ALXQACkFzc2VydGlvbnNxAH4AZXNxAH4ALXQADFRyaXBsZUVxdWFsc3NxAH4AM3NxAH4ANnVxAH4AOQAAAANzcQB+ADt0AANvcmdzcQB+ADt0AAlzY2FsYWN0aWNxAH4ARHNxAH4ALXQAE1RyaXBsZUVxdWFsc1N1cHBvcnRxAH4AiXNxAH4ALXQABk9iamVjdHNxAH4AM3NxAH4ANnVxAH4AOQAAAANzcQB+ADtxAH4AgHNxAH4AO3QABGxhbmdxAH4ARHNxAH4ALXQAA0FueXNxAH4AM3NxAH4ANnVxAH4AOQAAAAJzcQB+ADt0AAVzY2FsYXEAfgBEcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAceHB0AAZwYXRtYXRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVB8MxtidXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAMkQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxwYXRtYXRcYmludAAyRDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXHBhdG1hdFxzcmN1cgACW0Ks8xf4BghU4AIAAHhwAAAAFLuUuFQqSYwk43JlxZIyhj2+vHox
+external apis:
+0 items
+source infos:
+3 items
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\common\package.scala -> 
+AAAAAAAAAAA=
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\main\scala\patmat\Huffman.scala -> 
+AAAAAQAHY29tcGlsZQEAAACgACQgICAgICAocFRyZWUsIHJlbWFpbmluZ0JpdHMpIG1hdGNoIHsBAAAVkwEAAAAGAQAGICAgICAgAQBSRDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXHBhdG1hdFxzcmNcbWFpblxzY2FsYVxwYXRtYXRcSHVmZm1hbi5zY2FsYQEAUkQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxwYXRtYXRcc3JjXG1haW5cc2NhbGFccGF0bWF0XEh1ZmZtYW4uc2NhbGEAu21hdGNoIG1heSBub3QgYmUgZXhoYXVzdGl2ZS4KSXQgd291bGQgZmFpbCBvbiB0aGUgZm9sbG93aW5nIGlucHV0czogKEZvcmsoXywgXywgXywgXyksIExpc3QoXykpLCAoRm9yayhfLCBfLCBfLCBfKSwgTmlsKSwgKF8sIExpc3QoMCkpLCAoXywgTGlzdCgxKSksIChfLCBMaXN0KD8/KSksIChfLCBMaXN0KF8pKSwgKF8sIE5pbCkBAAAAAA==
+D:\Scala\scala-workspace\Coursera-Scala\patmat\src\test\scala\patmat\HuffmanSuite.scala -> 
+AAAAAAAAAAA=
+compilations:
+16 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUF5SsDt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxwYXRtYXRcYmludAAyRDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXHBhdG1hdFxzcmM=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHvdqw11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxwYXRtYXRcYmludAAyRDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXHBhdG1hdFxzcmM=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHveAoZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxwYXRtYXRcYmludAAyRDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXHBhdG1hdFxzcmM=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHvfqlx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxwYXRtYXRcYmludAAyRDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXHBhdG1hdFxzcmM=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHvg9z91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxwYXRtYXRcYmludAAyRDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXHBhdG1hdFxzcmM=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHvv75V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxwYXRtYXRcYmludAAyRDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXHBhdG1hdFxzcmM=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHvyKBZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxwYXRtYXRcYmludAAyRDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXHBhdG1hdFxzcmM=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHvyQLF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxwYXRtYXRcYmludAAyRDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXHBhdG1hdFxzcmM=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHvzNgl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxwYXRtYXRcYmludAAyRDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXHBhdG1hdFxzcmM=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHv/YHJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxwYXRtYXRcYmludAAyRDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXHBhdG1hdFxzcmM=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHwBg2d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxwYXRtYXRcYmludAAyRDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXHBhdG1hdFxzcmM=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHwGlp11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxwYXRtYXRcYmludAAyRDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXHBhdG1hdFxzcmM=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHwqSqd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxwYXRtYXRcYmludAAyRDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXHBhdG1hdFxzcmM=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHwvTU51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxwYXRtYXRcYmludAAyRDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXHBhdG1hdFxzcmM=
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHwzE9N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxwYXRtYXRcYmludAAyRDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXHBhdG1hdFxzcmM=
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUHwzG2J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxwYXRtYXRcYmludAAyRDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXHBhdG1hdFxzcmM=
